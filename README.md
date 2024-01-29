@@ -1,2 +1,6 @@
 # JsBasics
-Hello from VsCode
+Git commands are:
+-> clone
+-> add
+-> commit
+-> push
